@@ -275,7 +275,7 @@ $se = \sqrt{(ControlConversionRate*{(1-ControlConversionRate) \over ControlClick
 
 Standard Error: 0.000686004
 
-$Z-Score = {(TestConversionRate - ControlConversionRate) \over SE}$
+$Z-Score = {(TestConversionRate - ControlConversionRate) \over se}$
 
 Z-score: 11.54118114
 
