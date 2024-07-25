@@ -22,14 +22,11 @@ Evaluated the effectiveness of different marketing strategies using A/B testing 
 <!-- Summary -->
 ## Summary
 
-This report presents a comprehensive market research and competitive analysis for a leading fitness subscription service, aiming to optimize marketing strategies and increase market share. Using A/B Testing, we evaluated various marketing changes and their impact on conversion rates. The analysis revealed a statistically significant increase in conversions from 6% to 7% in the test group, demonstrating the effectiveness of the tested marketing change.
+This report presents a comprehensive market research and competitive analysis for a leading fitness subscription service, aiming to optimize marketing strategies and increase market share. Using A/B Testing, we evaluated various marketing changes and their impact on conversion rates. The analysis revealed a statistically significant increase in conversions from 6.32% to 7.11% in the test group, demonstrating the effectiveness of the tested marketing change.
 
 Key competitors in the fitness subscription market, were analyzed to understand their strengths, weaknesses, and marketing strategies.
 
 Our recommendations include implementing the successful marketing change from the A/B test across all users, exploring additional A/B tests to further optimize marketing strategies, and leveraging personalized content to enhance customer engagement. These strategies are expected to improve market share and competitive positioning in the rapidly growing fitness subscription market.
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,10 +107,9 @@ Price:
 * $24/mo or $20/mo with annual subscription for Cycle App
 
 Current market share, sales, revenues:
-* $1.67B annual revenue from services (memberships) in 2023
-* Services revenue at an all-time high in 2023, but total revenue decreased to $2.79B from the all-time high of $4.02B in 2021
-* Annual users decreased to 6.4M in 2023 from 6.7M in 2022
-* 3.05M subscribers in Q3 2024, down from 3.1M in Q3 2023
+* $2.2B annual revenue from services (memberships) in 2023
+* Services revenue at an all-time high in 2023, but total revenue decreased to $3.2B from the all-time high of $4.5B in 2021
+* Annual users decreased to 5.4M in 2023 from 6.8M in 2022
 
 #### All in One App
 
@@ -145,7 +141,7 @@ Price:
 * $24.97/mo with three year subscription
 
 Current market share, sales, revenues:
-* $4.3M revenue in May 2024
+* $9.3M revenue in May 2024
 
 #### Beach App
 
@@ -159,8 +155,8 @@ Price:
 * $35/mo or $14.91/mo with annual subscription
 
 Current market share, sales, revenues:
-* Digital revenue of $61.5M in Q1 2024, down from $64.8M in Q1 2023
-* 1.22M digital subscriptions in Q1 2024, down from 1.75M in Q1 2023
+* Digital revenue of $55.5M in Q1 2024, down from $68.2M in Q1 2023
+* 2.22M digital subscriptions in Q1 2024, down from 3.75M in Q1 2023
 
 #### Globo Gym App
 
@@ -181,36 +177,142 @@ Current market share, sales, revenues:
 <!-- Competitive Analysis -->
 ## Competitive Analysis
 
-Competitors: Identify key competitors (e.g., Peloton, Apple Fitness+, NordicTrack) and provide a brief overview of each.
-SWOT Analysis: Conduct a SWOT analysis for each competitor, highlighting their strengths, weaknesses, opportunities, and threats.
-Marketing Strategies: Compare the A/B testing and marketing strategies of the competitors.
+### SWOT Analysis
+#### Strengths
+
+Does Not Require Specific Equipment:
+* Fitness+ does not necessitate the purchase of proprietary equipment, unlike some competitors, making it more accessible to a broader audience.
+
+Focused Classes, Not Generalized:
+* The app offers specialized classes, providing a more targeted and personalized workout experience for users interested in strength training and personalized plans.
+
+Lower Price Than Most Competitors:
+* With a subscription cost of $8.99 per month (or $5.99 per month with an annual subscription), Fitness+ is more affordable than many competitors, making it an attractive option for cost-conscious consumers.
+
+#### Weaknesses
+
+No Live Classes:
+* Fitness+ lacks live classes, which are popular among users who seek real-time engagement and motivation from instructors.
+
+Newer App, Less Recognizable:
+* As a newer entrant in the market, Fitness+ lacks the brand recognition of more established competitors, potentially making it harder to attract new users.
+
+#### Opportunities
+
+Growing Industry with Declining Revenue for Legacy Companies:
+* The fitness subscription industry is expanding, while revenue for some legacy companies is declining. This creates an opportunity for newer and smaller companies like Fitness+ to capture a larger market share.
+
+Negative Connotation of MLM Structure for Beach App:
+* The MLM structure of Beach App may alienate a segment of potential customers, presenting an opportunity for Fitness+ to attract users looking for a more straightforward subscription model.
+
+Strength-Focused Niche:
+* Many competitors focus primarily on cardio workouts, with strength training as a secondary component. By specializing in strength workouts, Fitness+ can carve out a niche market and appeal to users specifically interested in this type of exercise.
+
+Shift Away from Expensive Equipment and Subscriptions:
+* With the rising cost of living, consumers may move away from expensive equipment and high-cost subscriptions offered by companies like Cycle App and Treadmill App. Fitness+'s affordable pricing and no-equipment model could become increasingly appealing.
+
+#### Threats
+
+Potential All in One-Cycle App Acquisition:
+* Rumors of All in One purchasing Cycle App pose a significant threat, as All in One already offers a highly comparable product with a vast user base and ecosystem. Such an acquisition could consolidate market power and reduce Fitness+'s competitive edge.
+
+Popularity of Cardio and Boutique Fitness:
+* Cardio and boutique fitness classes remain very popular. The strength-focused approach of Fitness+ might limit its overall potential market, especially if consumers continue to favor cardio-based workouts.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Data Analysis -->
 ## Data Analysis
-Data Preparation: Describe the data cleaning and preprocessing steps.
-Exploratory Data Analysis (EDA): Present key metrics and initial insights from the dataset.
-A/B Test Results:
-Conversion Rates: Compare the conversion rates of the control and test groups.
-Statistical Significance: Present the Z-score and p-value to determine the significance of the results.
-Visualizations: Include charts and graphs to illustrate the A/B test results.
+
+### Campaign Design
+
+#### Objective:
+
+The A/B test campaign was designed to leverage the identified strengths and opportunities of Fitness+ to determine the effectiveness of specific marketing changes aimed at increasing user engagement and conversions.
+
+#### Test Campaign Features:
+
+* Personalized Plans: The test campaign highlighted personalized strength training plans, emphasizing Fitness+'s strength-focused niche.
+* Affordable Pricing: The marketing messages underscored the lower cost compared to competitors, aiming to attract cost-conscious consumers.
+* No Proprietary Equipment Needed: The campaign emphasized that Fitness+ does not require specific equipment, making it accessible to a wider audience.
+* Engaging Content: The campaign included detailed descriptions of the variety of strength workouts and the benefits of personalized plans, appealing to users looking for specialized training.
+
+#### Control Campaign Features:
+
+* General Marketing Messages: The control group received standard marketing messages that did not highlight the specific strengths and opportunities.
+* Basic Workout Descriptions: The descriptions focused on general fitness benefits without emphasizing the personalized or strength-focused aspects.
+
+### Methodology
+
+The dataset contains daily counts of impressions, click-throughs, and new subscriptions for each campaign during June 2024. The analysis was conducted using Excel and Tableau to calculate conversion rates and assess the statistical significance of the results between the control and test groups.
+
+### Data Points:
+
+#### Control
+
+* Impressions: 3102420
+* Click-Throughs: 250797
+* Subscriptions: 15838
+
+#### Test
+
+* Impressions: 3118680
+* Click-Throughs: 281280
+* Subscriptions: 19990
+
+#### Conversion Rates Calculation:
+
+$ConversionRate = {Subscriptions \over Impressions} * 100$
+
+Control Conversion Rate: 6.32%
+Test Conversion Rate: 7.11%
+
+#### Statistical Significance:
+
+Standard error and a Z-score were calculated to determine the statistical significance of the difference in conversion rates between the control and test groups.
+
+$se = \sqrt{(ControlConversionRate*{(1-ControlConversionRate) \over ControlClickThrough})+(TestConversionRate*{(1-TestConversionRate) \over TestClickThrough})}$ 
+
+Standard Error: 0.000686004
+
+$Z-Score = {(TestConversionRate - ControlConversionRate) \over SE}$
+
+Z-score: 11.54118114
+
+The results show that the test campaign achieved a conversion rate of 7.11%, compared to 6.32% for the control group. The Z-score of 11.54 indicates a highly significant difference, suggesting that the changes implemented in the test campaign had a substantial positive impact on conversions.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Insights and Recommendations -->
 ## Insights and Recommendations
-Key Insights: Summarize the main findings from the market research, competitive analysis, and A/B test results.
-Recommendations:
-Marketing Strategy: Suggest specific changes to marketing strategies based on the A/B test results.
-Customer Targeting: Provide recommendations for better targeting different customer segments.
-Competitive Positioning: Suggest strategies to improve competitive positioning in the market.
+
+### Key Insights:
+
+Emphasizing personalized strength training plans and affordable pricing can significantly increase user engagement and conversion rates.
+
+Highlighting the accessibility of the app, which does not require specific equipment, appeals to a broader audience.
+
+### Recommendations:
+
+* Expand Personalized Plans: Continue to develop and promote personalized strength training plans as a key differentiator.
+* Maintain Affordable Pricing: Keep subscription costs competitive and consider offering periodic discounts to attract new subscribers.
+* Emphasize Accessibility: Regularly highlight that no specific equipment is required, making the app accessible to more users.
+* Leverage Test Campaign Insights: Implement similar marketing strategies across all campaigns to enhance overall conversion rates.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Conclusion -->
 ## Conclusion
-Summary: Recap the key findings and recommendations of the project.
-Future Work: Suggest areas for further research and potential next steps.
+
+This market research and competitive analysis report for Fitness+ has provided valuable insights into the current landscape of the fitness subscription service industry and identified key areas for growth and improvement. By leveraging the A/B testing data, we have been able to assess the effectiveness of various marketing strategies and provide data-driven recommendations.
+
+Our analysis revealed that Fitness+ has several strengths, including its affordability, specialized strength-focused workouts, and the absence of required proprietary equipment, which makes it accessible to a broader audience. However, the app's lack of live classes and its relative newness in the market pose challenges that need to be addressed.
+
+The A/B test results showed a significant improvement in conversion rates when the marketing campaign emphasized personalized plans, affordability, and accessibility. This highlights the potential for Fitness+ to increase its market share by focusing on these areas in future campaigns.
+
+The competitive analysis identified major players like Cycle App, All in One App, Treadmill App, Beach App, and Globo Gym App. While these competitors have their own strengths, they also present opportunities for Fitness+ to differentiate itself, particularly in the niche of strength-focused training.
+
+### Notes and limitations: 
+All companies and related data in this report are fabricated. In particular the financial data of the competitors and the A/B test dataset were randomly generated for use in this project. The results and conclusions shouls not be applied to any real world scenario without performing this analysis again with real data and companies.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
