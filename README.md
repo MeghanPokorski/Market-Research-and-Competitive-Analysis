@@ -1,5 +1,5 @@
 # Market-Research-and-Competitive-Analysis
-Evaluated the effectiveness of different marketing strategies using A/B testing data, identified and analyzed key competitors' strategies with a SWOT analysis, and persormed data analysis in Excel and Tableau to provide actionable recommendations.
+Evaluated the effectiveness of different marketing strategies using A/B testing data, identified and analyzed key competitors' strategies with a SWOT analysis, and performed data analysis in Excel and Tableau to provide actionable recommendations.
 
 <!-- TABLE OF CONTENTS -->
 <details>
