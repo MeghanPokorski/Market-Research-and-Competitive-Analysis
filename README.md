@@ -1,5 +1,5 @@
 # Market-Research-and-Competitive-Analysis
-Evaluated the effectiveness of different marketing strategies using A/B testing data, identified and analyzed key competitors' strategies with a SWOT analysis, and created a Tableau dashboard and PowerPoint presentation to provide actionable recommendations.
+Evaluated the effectiveness of different marketing strategies using A/B testing data, identified and analyzed key competitors' strategies with a SWOT analysis, and persormed data analysis in Excel and Tableau to provide actionable recommendations.
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -52,7 +52,7 @@ This project will include the following:
 * Identification and analysis of key competitors, including a SWOT analysis
 * Analysis of A/B test data to evaluate marketing campaign performance
 * Visualization of key insights and findings using Tableau.
-* Development of a comprehensive report and PowerPoint presentation to communicate results
+* Development of a comprehensive report to communicate results
 * Provision of actionable insights and recommendations for optimizing future marketing campaigns
 
 The project will exclude:
@@ -266,6 +266,12 @@ $ConversionRate = {Subscriptions \over Impressions} * 100$
 
 Control Conversion Rate: 6.32%
 Test Conversion Rate: 7.11%
+
+<p align=center>Tableau Dashboard</p>
+
+![Tableau Dashboard](images/AB_results.png)
+
+[Interactive Dashboard](https://public.tableau.com/views/ABTestResults_17218365404810/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 #### Statistical Significance:
 
